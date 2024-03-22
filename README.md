@@ -44,6 +44,8 @@ const number = 10;
 let name = "Matt";
 ```
 
+<div style="page-break-after:always,"></div>  (creates a new page in pdf)
+
 ### json
 
 ```json
@@ -52,3 +54,37 @@ let name = "Matt";
   "age": 25
 }
 ```
+
+### php
+
+```php
+<?php
+if($method == 'GET') {
+    echo 'This is GET';
+}
+?>
+```
+
+### terminal/shell
+
+```shell
+$node -v
+```
+
+### gray block
+
+```
+some text
+```
+
+## tables
+
+| header1 | header2 | header3 |
+| :------ | ------: | :-----: |
+| d1      |      d2 |   d3    |
+
+| aligment |  tag  |
+| -------- | :---: |
+| left     | :---  |
+| right    | ---:  |
+| center   | :---: |
